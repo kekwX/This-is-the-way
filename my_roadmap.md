@@ -1,4 +1,5 @@
-# Beginning. Python (base).
+# Beginning. Python (base). 
+
 ---
 
 - "Поколение Python": курс для начинающих
@@ -12,7 +13,8 @@
 ***
 ***
 
-# Python. Other level.
+# Python. Other level. 
+
 ---
 - ООП: Объектно-ориентированное программирование на Python
 - Python - Модуль 4 (ООП)
@@ -23,6 +25,7 @@
 ***
 
 # Python. There is room to grow. 
+
 ---
 - Многопоточный Python
 - Многопоточность в Python. Multithreading
@@ -39,7 +42,8 @@
 *** 
 ***
 
-# SQL  & DATABASE.
+# SQL  & DATABASE. 
+
 ---
 - Погружение в SQL: Основы и первые шаги
 - Марафон данных: первое знакомство с SQL и Python
@@ -50,14 +54,16 @@
 ***
 ***
 
-# A/B Tests.
+# A/B Tests. 
+
 ---
 - А/Б-тесты с Глебом Михайловым
 
 *** 
 ***
 
-# ALGORITHMS & DATASTRRUCTURES.
+# ALGORITHMS & DATASTRRUCTURES. 
+
 ---
 - Алгоритмы: теория и практика. Структуры данных
 - Алгоритмы: теория и практика. Методы
